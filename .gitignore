@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# original full-size photos stay on this computer only
+asset/
